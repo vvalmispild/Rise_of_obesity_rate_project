@@ -21,9 +21,6 @@ The analysis reveals several interesting findings:
 ![alt text](https://github.com/vvalmispild/Rise_of_obesity_rate_project/blob/main/Dependence_state.png)
 ![alt text](https://github.com/vvalmispild/Rise_of_obesity_rate_project/blob/main/Dependence_age.png)
 
-### Conclusion:
-The analysis sheds light on the underlying factors that contribute to obesity and provides valuable insights for public health interventions and policies aimed at reducing obesity rates. This repository serves as a starting point for further analysis and research on the topic.
-
 ### References:
 1) https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
 2) https://www.kaggle.com/code/spittman1248/effect-of-socioeconomic-status-on-obesity
