@@ -22,4 +22,6 @@ The analysis reveals several interesting findings:
 ![alt text](https://github.com/vvalmispild/Rise_of_obesity_rate_project/blob/main/Dependence_age.png)
 
 ### References:
+<sup>
 1) https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+</sup>
