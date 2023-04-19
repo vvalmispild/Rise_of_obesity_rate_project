@@ -23,4 +23,3 @@ The analysis reveals several interesting findings:
 
 ### References:
 1) https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
-2) https://www.kaggle.com/code/spittman1248/effect-of-socioeconomic-status-on-obesity
